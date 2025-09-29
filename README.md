@@ -4,7 +4,7 @@ https://m-colley.github.io/SPAT/
 
 
 
-#Citation
+# Citation
 ```
 @inproceedings{SahinIppoliti2018SPAT,
   author       = {Şahin Ippoliti, Hatice and Colley, Mark and Dey, Debargha and
