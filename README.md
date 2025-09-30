@@ -16,7 +16,8 @@ https://m-colley.github.io/SPAT/
   year         = {2025},
   publisher    = {ACM},
   address      = {New York, NY, USA},
-  note        = {accepted}
+  url		   = {https://doi.org/10.1145/3744333.3747812},
+  doi		   = {10.1145/3744333.3747812}
 }
 ```
 
